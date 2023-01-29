@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+    padding:0px;
+    border:1px solid red;
+    transform: 1s;
+}
+.bglightgrey{
+    background-color: rgb(238, 242, 245);
+}
+.image-small{
+    width:350px;
+    height:350px;
+}
+#list{
+    display:flex;
+    flex-wrap:wrap;
+    gap:0.5rem;
+}
+main{
+  background-color: rgb(183, 202, 207);
+}
